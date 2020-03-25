@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Sqlite (Xerial) - db.sqlite3" uuid="bc3d101c-50c5-46b4-95ad-6c14160e4d12">
+      <secret-storage>master_key</secret-storage>
+      <auth-required>false</auth-required>
+    </data-source>
+    <data-source name="Derby (Embedded) - db.sqlite3" uuid="3f865404-dd23-4d15-9368-c185c14ebec0">
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+  </component>
+</project>
